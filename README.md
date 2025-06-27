@@ -61,6 +61,6 @@ _💡 Added a screenshot of the tool here for better understanding._
 ## 📦 Installation (for Local Development)
 
 ```bash
-git clone https://github.com/yourusername/equity_research_tool.git
+git clone https://github.com/Indrasish7/equity_research_tool.git
 cd equity_research_tool
 pip install -r requirements.txt
