@@ -20,7 +20,9 @@ The Equity Research Tool is an AI-powered assistant that helps you analyze finan
 
 ## 📸 Demo
 
-_💡 Add a GIF or screenshot of the tool here for better engagement._
+_💡 Added a screenshot of the tool here for better understanding._
+![image](https://github.com/user-attachments/assets/3dab61c0-1b87-4fd1-8ee0-85713cc991e9)
+
 
 ---
 
