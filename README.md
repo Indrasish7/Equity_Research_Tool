@@ -43,7 +43,7 @@ _💡 Added a screenshot of the tool here for better understanding._
 > "What is Tata Motors launching this quarter?"  
 > "How are Mahindra and Tata benefitting from PLI?"  
 > "What is the analyst recommendation on Tata stock?"
-
+> "What is the price of Tiago iCNG?"
 ---
 
 ## ⚙️ Tech Stack
